@@ -1,0 +1,30 @@
+# Settings for actionbar menu
+# pos is x,y,width,height
+
+pos=0,0,640,35
+align=bottom
+
+slot=1,16,3
+slot=2,48,3
+slot=3,80,3
+slot=4,112,3
+slot=5,144,3
+slot=6,176,3
+slot=7,208,3
+slot=8,240,3
+slot=9,272,3
+slot=10,304,3
+
+slot_M1=368,3
+slot_M2=400,3
+
+char_menu=464,3
+inv_menu=496,3
+powers_menu=528,3
+log_menu=560,3
+
+loot_tip_toggle=592,3
+minimap_mode_toggle=608,3
+statbar_label_toggle=592,19
+combat_text_toggle=608,19
+

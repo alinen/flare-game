@@ -1,0 +1,4 @@
+description=Isometric generic fantasy assets.
+game=Capture
+version=1
+engine_version_min=1.08.28

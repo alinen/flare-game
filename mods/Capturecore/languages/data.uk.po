@@ -1,0 +1,518 @@
+# Copyright (C) 2011 Clint Bellanger
+# This file is distributed under the same license as the FLARE package.
+# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Translators:
+# Justin Jacobs <jajdorkster@gmail.com>, 2018
+# Микола Франчук <thekolian1996@gmail.com>, 2018
+# igorko <mansonigor@gmail.com>, 2018
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-04 23:15+\n"
+"PO-Revision-Date: 2018-03-28 19:34+0000\n"
+"Last-Translator: igorko <mansonigor@gmail.com>, 2018\n"
+"Language-Team: Ukrainian (https://www.transifex.com/flareorg/teams/84925/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: ../items/types.txt:5
+msgid "Main Hand"
+msgstr "Основна рука"
+
+#: ../items/types.txt:9
+msgid "Off Hand"
+msgstr "Друга рука"
+
+#: ../items/types.txt:13
+msgid "Head"
+msgstr "Голова"
+
+#: ../items/types.txt:17
+msgid "Torso"
+msgstr "Груди"
+
+#: ../items/types.txt:21
+msgid "Hands"
+msgstr "Руки"
+
+#: ../items/types.txt:25
+msgid "Legs"
+msgstr "Ноги"
+
+#: ../items/types.txt:29
+msgid "Feet"
+msgstr "Стопи"
+
+#: ../items/types.txt:33
+msgid "Artifact"
+msgstr "Артефакт"
+
+#: ../items/types.txt:37
+msgid "Ring"
+msgstr "Перстень"
+
+#: ../items/types.txt:43
+msgid "Consumable"
+msgstr "Вживаний"
+
+#: ../items/types.txt:47
+msgid "Gem"
+msgstr "Самоцвіт"
+
+#: ../items/types.txt:51
+msgid "Key"
+msgstr "Ключ"
+
+#: ../items/types.txt:55
+msgid "Book"
+msgstr "Книга"
+
+#: ../items/qualities.txt:3
+msgid "Low"
+msgstr "Низька"
+
+#: ../items/qualities.txt:9
+msgid "Normal"
+msgstr "Звичайна"
+
+#: ../items/qualities.txt:15
+msgid "High"
+msgstr "Висока"
+
+#: ../items/qualities.txt:21
+msgid "Epic"
+msgstr "Епічний"
+
+#: ../items/qualities.txt:27
+msgid "Rare"
+msgstr "Рідкісний"
+
+#: ../items/qualities.txt:33
+msgid "Unique"
+msgstr "Унікальний"
+
+#: ../items/qualities.txt:39
+msgid "One-time Use"
+msgstr "Одноразовий"
+
+#: ../items/qualities.txt:45
+msgid "Currency"
+msgstr "Валюта"
+
+#: ../engine/loot.txt:14
+msgid "Gold"
+msgstr "Золото"
+
+#: ../engine/hero_options.txt:7
+msgid "Delrek"
+msgstr "Делрек"
+
+#: ../engine/hero_options.txt:8
+msgid "Anthem"
+msgstr "Ансем"
+
+#: ../engine/hero_options.txt:9
+msgid "Kuroko"
+msgstr "Куроко"
+
+#: ../engine/hero_options.txt:10
+msgid "Silus"
+msgstr "Сілус"
+
+#: ../engine/hero_options.txt:11
+msgid "Wardell"
+msgstr "Вардел"
+
+#: ../engine/hero_options.txt:12
+msgid "Meck"
+msgstr "Мек"
+
+#: ../engine/hero_options.txt:13
+msgid "Jereth"
+msgstr "Йерес"
+
+#: ../engine/hero_options.txt:14
+msgid "Ecnerwal"
+msgstr "Екнервай"
+
+#: ../engine/hero_options.txt:15
+msgid "Chane"
+msgstr "Чан"
+
+#: ../engine/hero_options.txt:16
+msgid "Esteban"
+msgstr "Естебан"
+
+#: ../engine/hero_options.txt:17
+msgid "Kelen"
+msgstr "Келен"
+
+#: ../engine/hero_options.txt:18
+msgid "Jochanan"
+msgstr "Йоханан"
+
+#: ../engine/hero_options.txt:19
+msgid "Ichijo"
+msgstr "Ічійо"
+
+#: ../engine/hero_options.txt:20
+msgid "Torwald"
+msgstr "Торвальд"
+
+#: ../engine/hero_options.txt:21
+msgid "Rudyard"
+msgstr "Рудяр"
+
+#: ../engine/hero_options.txt:22
+msgid "Gryphon"
+msgstr "Грифон"
+
+#: ../engine/hero_options.txt:23
+msgid "Percival"
+msgstr "Персіваль"
+
+#: ../engine/hero_options.txt:24
+msgid "Eldmoor"
+msgstr "Ельдмор"
+
+#: ../engine/hero_options.txt:25
+msgid "Lott"
+msgstr "Лот"
+
+#: ../engine/hero_options.txt:26
+msgid "Respute"
+msgstr "Распут"
+
+#: ../engine/hero_options.txt:28
+msgid "Elise"
+msgstr "Еліс"
+
+#: ../engine/hero_options.txt:29
+msgid "River"
+msgstr "Рівер"
+
+#: ../engine/hero_options.txt:30
+msgid "Nital"
+msgstr "Ніталь"
+
+#: ../engine/hero_options.txt:31
+msgid "Karyli"
+msgstr "Карилі"
+
+#: ../engine/hero_options.txt:32
+msgid "Venka"
+msgstr "Венка"
+
+#: ../engine/hero_options.txt:33
+msgid "Mikal"
+msgstr "Мікал"
+
+#: ../engine/hero_options.txt:34
+msgid "Hira"
+msgstr "Гіра"
+
+#: ../engine/hero_options.txt:35
+msgid "Blynn"
+msgstr "Блин"
+
+#: ../engine/hero_options.txt:36
+msgid "Ashdara"
+msgstr "Ашдара"
+
+#: ../engine/hero_options.txt:37
+msgid "Calyss"
+msgstr "Калис"
+
+#: ../engine/hero_options.txt:38
+msgid "Zeldyn"
+msgstr "Зельдин"
+
+#: ../engine/hero_options.txt:39
+msgid "Malia"
+msgstr "Малія"
+
+#: ../engine/hero_options.txt:40
+msgid "Ayah"
+msgstr "Айя"
+
+#: ../engine/hero_options.txt:41
+msgid "Gywn"
+msgstr "Дживн"
+
+#: ../engine/hero_options.txt:42
+msgid "Sonia"
+msgstr "Соня"
+
+#: ../engine/equip_flags.txt:5
+msgid "melee weapon"
+msgstr "ближня зброя"
+
+#: ../engine/equip_flags.txt:9
+msgid "ranged weapon"
+msgstr "дальня зброя"
+
+#: ../engine/equip_flags.txt:13
+msgid "mental weapon"
+msgstr "духовна зброя"
+
+#: ../engine/equip_flags.txt:17
+msgid "shield"
+msgstr "щит"
+
+#: ../engine/equip_flags.txt:21
+msgid "slingshot"
+msgstr "рогатка"
+
+#: ../engine/equip_flags.txt:25
+msgid "bow"
+msgstr "лук"
+
+#: ../soundfx/subtitles.txt:11
+msgid "Take a look around."
+msgstr "Оглянься."
+
+#: ../soundfx/subtitles.txt:15
+msgid "Looking to buy something?"
+msgstr "Хочеш щось придбати?"
+
+#: ../soundfx/subtitles.txt:19
+msgid "How can I help you?"
+msgstr "Можу чимось допомогти?"
+
+#: ../soundfx/subtitles.txt:23
+msgid "Let's trade."
+msgstr "Давай торгувати."
+
+#: ../cutscenes/credits.txt:7
+msgid "Flare Game Credits - fantasycore"
+msgstr "Автори Flare Game - fantasycore"
+
+#: ../cutscenes/credits.txt:10
+msgid "Lead Visual Artists"
+msgstr "Провідні художники"
+
+#: ../cutscenes/credits.txt:12
+msgid "Clint Bellanger"
+msgstr "Клінт Беланжер"
+
+#: ../cutscenes/credits.txt:13
+msgid "Justin Nichol"
+msgstr "Джастін Нікол"
+
+#: ../cutscenes/credits.txt:16
+msgid "Visual Artists"
+msgstr "Художники"
+
+#: ../cutscenes/credits.txt:18
+msgid "Blarumyrran"
+msgstr "Blarumyrran"
+
+#: ../cutscenes/credits.txt:19
+msgid "Jessica Cox"
+msgstr "Джесіка Кокс"
+
+#: ../cutscenes/credits.txt:20
+msgid "Sarah Benalene"
+msgstr "Sarah Benalene"
+
+#: ../cutscenes/credits.txt:21
+msgid "Scrittl"
+msgstr "Scrittl"
+
+#: ../cutscenes/credits.txt:22
+msgid "Stefan Beller"
+msgstr "Стефан Беллер"
+
+#: ../cutscenes/credits.txt:25
+msgid "Composers"
+msgstr "Композитори"
+
+#: ../cutscenes/credits.txt:27
+msgid "Brandon Morris"
+msgstr "Брендон Морріс"
+
+#: ../cutscenes/credits.txt:28
+msgid "remaxim"
+msgstr "remaxim"
+
+#: ../cutscenes/credits.txt:31
+msgid "Foley Artists"
+msgstr "Звукові ефекти"
+
+#: ../cutscenes/credits.txt:34
+msgid "Justin Jacobs"
+msgstr "Justin Jacobs"
+
+#: ../cutscenes/credits.txt:35
+msgid "rubberduck"
+msgstr "rubberduck"
+
+#: ../cutscenes/credits.txt:38
+msgid "Voice Actors"
+msgstr "Озвучення"
+
+#: ../cutscenes/credits.txt:41
+msgid "Holly Daniel"
+msgstr "Holly Daniel"
+
+#: ../cutscenes/credits.txt:44
+msgid "Translators"
+msgstr "Перекладачі"
+
+#: ../cutscenes/credits.txt:46
+msgid "Adrian Chaves Fernandez"
+msgstr "Adrian Chaves Fernandez"
+
+#: ../cutscenes/credits.txt:47
+msgid "Andrea Ranaldi"
+msgstr "Андреа Раналді"
+
+#: ../cutscenes/credits.txt:48
+msgid "Andreas Berheim Brudin"
+msgstr "Andreas Berheim Brudin"
+
+#: ../cutscenes/credits.txt:49
+msgid "Bas Doodeman"
+msgstr "Bas Doodeman"
+
+#: ../cutscenes/credits.txt:50
+msgid "Bonbadil"
+msgstr "Bonbadil"
+
+#: ../cutscenes/credits.txt:51
+msgid "Carlos Sanchez"
+msgstr "Карлос Санчез"
+
+#: ../cutscenes/credits.txt:52
+msgid "Chris Oelmueller"
+msgstr "Chris Oelmueller"
+
+#: ../cutscenes/credits.txt:53
+msgid "Christoph J. Thompson"
+msgstr "Christoph J. Thompson"
+
+#: ../cutscenes/credits.txt:54
+msgid "Diego J. Romero López"
+msgstr "Diego J. Romero López"
+
+#: ../cutscenes/credits.txt:55
+msgid "dumaosen"
+msgstr "dumaosen"
+
+#: ../cutscenes/credits.txt:56
+msgid "Eric R"
+msgstr "Eric R"
+
+#: ../cutscenes/credits.txt:57
+msgid "Evgen Pavlov"
+msgstr "Євген Павлов"
+
+#: ../cutscenes/credits.txt:58
+msgid "Giovanni Dalla Torre"
+msgstr "Джованні Делла Торре"
+
+#: ../cutscenes/credits.txt:59
+msgid "GunChleoc"
+msgstr "GunChleoc"
+
+#: ../cutscenes/credits.txt:60
+msgid "Hans Joachim Desserud"
+msgstr "Hans Joachim Desserud"
+
+#: ../cutscenes/credits.txt:61
+msgid "hark34"
+msgstr "hark34"
+
+#: ../cutscenes/credits.txt:62
+msgid "Igor Paliychuk"
+msgstr "Ігор Палійчук"
+
+#: ../cutscenes/credits.txt:63
+msgid "Janet Hunt"
+msgstr "Джанет Хант"
+
+#: ../cutscenes/credits.txt:64
+msgid "Juan Pablo Tamayo"
+msgstr "Juan Pablo Tamayo"
+
+#: ../cutscenes/credits.txt:65
+msgid "Mikhail Karalevich"
+msgstr "Міхаїл Каралєвіч"
+
+#: ../cutscenes/credits.txt:66
+msgid "Miro Jánošík"
+msgstr "Miro Jánošík"
+
+#: ../cutscenes/credits.txt:67
+msgid "Mykola Franchuk"
+msgstr "Микола Франчук"
+
+#: ../cutscenes/credits.txt:68
+msgid "MOB2"
+msgstr "MOB2"
+
+#: ../cutscenes/credits.txt:69
+msgid "Morgan Strauss"
+msgstr "Морган Штраус"
+
+#: ../cutscenes/credits.txt:70
+msgid "Nea Retrogamer"
+msgstr "Nea Retrogamer"
+
+#: ../cutscenes/credits.txt:71
+msgid "Nikita Vanku"
+msgstr "Нікіта Ванку"
+
+#: ../cutscenes/credits.txt:72
+msgid "Paul Wortmann"
+msgstr "Паул Вортман"
+
+#: ../cutscenes/credits.txt:73
+msgid "Pawel Puszczynski"
+msgstr "Павел Пущинський"
+
+#: ../cutscenes/credits.txt:74
+msgid "Quentin Stievenart"
+msgstr "Квентін Стівенарт"
+
+#: ../cutscenes/credits.txt:75
+msgid "Rui"
+msgstr "Rui"
+
+#: ../cutscenes/credits.txt:76
+msgid "Sergey Basalaev"
+msgstr "Сєргєй Басалаєв"
+
+#: ../cutscenes/credits.txt:78
+msgid "Stefano Peris"
+msgstr "Стефано Періс"
+
+#: ../cutscenes/credits.txt:79
+msgid "sujiniku"
+msgstr "sujiniku"
+
+#: ../cutscenes/credits.txt:80
+msgid "Thomas Glamsch"
+msgstr "Thomas Glamsch"
+
+#: ../cutscenes/credits.txt:81
+msgid "Timo Sievänen"
+msgstr "Timo Sievänen"
+
+#: ../cutscenes/credits.txt:82
+msgid "Vicente Monteiro"
+msgstr "Вісенте Монтейро"
+
+#: ../cutscenes/credits.txt:83
+msgid "Wuzzy2"
+msgstr "Wuzzy2"
+
+#: ../cutscenes/credits.txt:84
+msgid "Yannis Anthymidis"
+msgstr "Яніс Антімідіс"
