@@ -2,7 +2,7 @@
 # pos is x,y,width,height
 
 pos=0,0,640,35
-align=bottom
+align=bottomright
 
 slot=1,16,3
 slot=2,48,3
