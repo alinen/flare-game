@@ -1,3 +1,0 @@
-description=A half-scale version of the fantasycore mod.
-requires=fantasycore
-game=flare-game

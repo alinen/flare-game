@@ -18,7 +18,7 @@ classlist_height=9
 
 portrait_label=216,40,center,top
 name_label=320,388,center,top
-permadeath_label=285,436,left,center
+#permadeath_label=285,436,left,center
 classlist_label=512,40,center,top
 
 random_option=true

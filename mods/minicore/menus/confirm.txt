@@ -1,2 +1,0 @@
-pos=0,0,96,32
-align=center

@@ -1,4 +1,0 @@
-APPEND
-
-tooltip_margin=16
-

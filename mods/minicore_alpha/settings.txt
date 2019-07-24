@@ -1,3 +1,0 @@
-description=A half-scale version of the alpha_demo mod.
-requires=alpha_demo,minicore
-game=flare-game

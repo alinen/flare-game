@@ -116,10 +116,6 @@ primary_stat=offense,defense
 level=5
 title=Warden
 
-[title]
-level=5
-title=Adventurer
-
 # Low level pure titles
 [title]
 primary_stat=physical

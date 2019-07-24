@@ -3,12 +3,12 @@
 # some items have two more values, width and height
 
 pos=0,0,440,416
-align=center
+align=bottomleft
 
 close=608,320
-dialogbox=0,320,640,96
-dialogtext=24,310,568,102
-text_offset=16,16
+dialogbox=0,200,640,200
+dialogtext=5,200,568,140
+text_offset=5,5
 font_who=font_bold
 font_dialog=font_regular
 

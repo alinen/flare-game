@@ -7,8 +7,8 @@ align=bottomleft
 
 close=608,320
 dialogbox=0,250,640,96
-dialogtext=24,250,568,102
-text_offset=10,16
+dialogtext=5,250,568,102
+text_offset=5,5
 font_who=font_bold
 font_dialog=font_regular
 

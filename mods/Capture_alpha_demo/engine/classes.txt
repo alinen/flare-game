@@ -40,9 +40,3 @@ primary=defense,1
 powers=7
 actionbar=7,0,0,0,0,0,0,0,0,0,1,3
 
-[class]
-name=Wanderer
-description=Wanderers choose their own paths. Primary attribute: custom
-currency=37
-equipment=64,66,67,31
-actionbar=0,0,0,0,0,0,0,0,0,0,1,0
