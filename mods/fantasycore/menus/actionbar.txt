@@ -2,7 +2,7 @@
 # pos is x,y,width,height
 
 pos=0,0,640,35
-align=bottom
+align=bottomright
 
 slot=1,16,3
 slot=2,48,3
@@ -18,10 +18,10 @@ slot=10,304,3
 slot_M1=368,3
 slot_M2=400,3
 
-char_menu=464,3
-inv_menu=496,3
-powers_menu=528,3
-log_menu=560,3
+#char_menu=464,3
+#inv_menu=496,3
+#powers_menu=528,3
+#log_menu=560,3
 
 loot_tip_toggle=592,3
 minimap_mode_toggle=608,3
