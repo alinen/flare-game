@@ -16,7 +16,7 @@ title=Magician
 id=1
 tab=0
 position=48,80
-requires_primary=physical,1
+requires_primary=physical,5
 
 
 # blood strike
@@ -24,28 +24,28 @@ requires_primary=physical,1
 id=7
 tab=0
 position=112,144
-requires_primary=physical,1
+requires_primary=physical,5
 requires_point=false
 upgrades=8,9,10,11
 
 [upgrade]
 id=8
-requires_primary=physical,1
+requires_primary=physical,5
 requires_point=false
 
 [upgrade]
 id=9
-requires_primary=physical,1
+requires_primary=physical,5
 requires_point=false
 
 [upgrade]
 id=10
-requires_primary=physical,1
+requires_primary=physical,5
 requires_point=false
 
 [upgrade]
 id=11
-requires_primary=physical,1
+requires_primary=physical,5
 requires_point=false
 
 
@@ -54,28 +54,28 @@ requires_point=false
 id=17
 tab=0
 position=112,208
-requires_primary=physical,1
+requires_primary=physical,5
 requires_point=false
 upgrades=18,19,20,21
 
 [upgrade]
 id=18
-requires_primary=physical,1
+requires_primary=physical,5
 requires_point=false
 
 [upgrade]
 id=19
-requires_primary=physical,1
+requires_primary=physical,5
 requires_point=false
 
 [upgrade]
 id=20
-requires_primary=physical,1
+requires_primary=physical,5
 requires_point=false
 
 [upgrade]
 id=21
-requires_primary=physical,1
+requires_primary=physical,5
 requires_point=false
 
 
@@ -84,29 +84,29 @@ requires_point=false
 id=22
 tab=0
 position=176,144
-requires_primary=physical,2
+requires_primary=physical,5
 requires_point=false
 upgrades=23,24,25,26
 
 [upgrade]
 id=23
-requires_primary=physical,8
-requires_point=true
+requires_primary=physical,5
+requires_point=false
 
 [upgrade]
 id=24
-requires_primary=physical,14
-requires_point=true
+requires_primary=physical,5
+requires_point=false
 
 [upgrade]
 id=25
-requires_primary=physical,20
-requires_point=true
+requires_primary=physical,5
+requires_point=false
 
 [upgrade]
 id=26
-requires_primary=physical,26
-requires_point=true
+requires_primary=physical,5
+requires_point=false
 
 
 # throw axe
@@ -114,34 +114,34 @@ requires_point=true
 id=27
 tab=0
 position=176,208
-requires_primary=physical,3
+requires_primary=physical,5
 requires_power=0
 requires_point=false
 upgrades=28,29,30,31
 
 [upgrade]
 id=28
-requires_primary=physical,9
-requires_power=23
-requires_point=true
+requires_primary=physical,5
+requires_power=0
+requires_point=false
 
 [upgrade]
 id=29
-requires_primary=physical,15
-requires_power=24
-requires_point=true
+requires_primary=physical,5
+requires_power=0
+requires_point=false
 
 [upgrade]
 id=30
-requires_primary=physical,21
-requires_power=25
-requires_point=true
+requires_primary=physical,5
+requires_power=0
+requires_point=false
 
 [upgrade]
 id=31
-requires_primary=physical,27
-requires_power=26
-requires_point=true
+requires_primary=physical,5
+requires_power=0
+requires_point=false
 
 
 # block
@@ -150,33 +150,33 @@ id=2
 tab=0
 position=240,80
 requires_primary=defense,1
-requires_primary=physical,1
+requires_primary=physical,5
 requires_point=false
 upgrades=3,4,5,6
 
 [upgrade]
 id=3
-requires_primary=defense,5
-requires_primary=physical,4
-requires_point=true
+requires_primary=defense,1
+requires_primary=physical,5
+requires_point=false
 
 [upgrade]
 id=4
-requires_primary=defense,8
-requires_primary=physical,7
-requires_point=true
+requires_primary=defense,1
+requires_primary=physical,5
+requires_point=false
 
 [upgrade]
 id=5
-requires_primary=defense,11
-requires_primary=physical,10
-requires_point=true
+requires_primary=defense,1
+requires_primary=physical,5
+requires_point=false
 
 [upgrade]
 id=6
-requires_primary=defense,14
-requires_primary=physical,13
-requires_point=true
+requires_primary=defense,1
+requires_primary=physical,5
+requires_point=false
 
 
 # war cry
@@ -185,33 +185,33 @@ id=12
 tab=0
 position=240,208
 requires_primary=defense,1
-requires_primary=physical,2
+requires_primary=physical,5
 requires_point=false
 upgrades=13,14,15,16
 
 [upgrade]
 id=13
-requires_primary=defense,6
+requires_primary=defense,1
 requires_primary=physical,5
-requires_point=true
+requires_point=false
 
 [upgrade]
 id=14
-requires_primary=defense,9
-requires_primary=physical,8
-requires_point=true
+requires_primary=defense,1
+requires_primary=physical,5
+requires_point=false
 
 [upgrade]
 id=15
-requires_primary=defense,12
-requires_primary=physical,11
-requires_point=true
+requires_primary=defense,1
+requires_primary=physical,5
+requires_point=false
 
 [upgrade]
 id=16
-requires_primary=defense,15
-requires_primary=physical,14
-requires_point=true
+requires_primary=defense,1
+requires_primary=physical,5
+requires_point=false
 
 
 # quake
@@ -226,27 +226,27 @@ upgrades=33,34,35,36
 
 [upgrade]
 id=33
-requires_primary=defense,7
-requires_primary=physical,6
-requires_point=true
+requires_primary=defense,1
+requires_primary=physical,5
+requires_point=false
 
 [upgrade]
 id=34
-requires_primary=defense,10
-requires_primary=physical,9
-requires_point=true
+requires_primary=defense,1
+requires_primary=physical,5
+requires_point=false
 
 [upgrade]
 id=35
-requires_primary=defense,13
-requires_primary=physical,12
-requires_point=true
+requires_primary=defense,1
+requires_primary=physical,5
+requires_point=false
 
 [upgrade]
 id=36
-requires_primary=defense,16
-requires_primary=physical,15
-requires_point=true
+requires_primary=defense,1
+requires_primary=physical,5
+requires_point=false
 
 
 # stone wall
@@ -287,7 +287,7 @@ requires_level=1
 id=42
 tab=1
 position=48,80
-requires_primary=offense,1
+requires_primary=offense,5
 
 
 # haste
@@ -296,33 +296,33 @@ id=45
 tab=1
 position=240,80
 requires_primary=defense,2
-requires_primary=offense,1
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 upgrades=46,47,48,49
 
 [upgrade]
 id=46
-requires_primary=defense,5
+requires_primary=defense,0
 requires_primary=offense,4
-requires_point=true
+requires_point=false
 
 [upgrade]
 id=47
-requires_primary=defense,8
-requires_primary=offense,7
-requires_point=true
+requires_primary=defense,0
+requires_primary=offense,5
+requires_point=false
 
 [upgrade]
 id=48
-requires_primary=defense,11
-requires_primary=offense,10
-requires_point=true
+requires_primary=defense,0
+requires_primary=offense,5
+requires_point=false
 
 [upgrade]
 id=49
-requires_primary=defense,14
-requires_primary=offense,13
-requires_point=true
+requires_primary=defense,0
+requires_primary=offense,5
+requires_point=false
 
 
 # piercing shot
@@ -331,28 +331,28 @@ id=50
 tab=1
 position=112,144
 requires_primary=offense,2
-requires_point=true
+requires_point=false
 upgrades=51,52,53,54
 
 [upgrade]
 id=51
-requires_primary=offense,8
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 
 [upgrade]
 id=52
-requires_primary=offense,14
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 
 [upgrade]
 id=53
-requires_primary=offense,20
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 
 [upgrade]
 id=54
-requires_primary=offense,26
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 
 
 # multi-shot
@@ -360,29 +360,29 @@ requires_point=true
 id=80
 tab=1
 position=112,208
-requires_primary=offense,3
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 upgrades=81,82,83,84
 
 [upgrade]
 id=81
-requires_primary=offense,9
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 
 [upgrade]
 id=82
-requires_primary=offense,15
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 
 [upgrade]
 id=83
-requires_primary=offense,21
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 
 [upgrade]
 id=84
-requires_primary=offense,27
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 
 
 # rapid fire
@@ -391,28 +391,28 @@ id=65
 tab=1
 position=112,272
 requires_primary=offense,4
-requires_point=true
+requires_point=false
 upgrades=66,67,68,69
 
 [upgrade]
 id=66
-requires_primary=offense,10
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 
 [upgrade]
 id=67
-requires_primary=offense,16
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 
 [upgrade]
 id=68
-requires_primary=offense,22
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 
 [upgrade]
 id=69
-requires_primary=offense,28
-requires_point=true
+requires_primary=offense,5
+requires_point=false
 
 
 # ember shot
@@ -421,12 +421,12 @@ id=95
 tab=1
 position=176,144
 requires_primary=offense,2
-requires_point=true
+requires_point=false
 upgrades=96,97,98,99
 
 [upgrade]
 id=96
-requires_primary=offense,8
+requires_primary=offense,2
 requires_point=true
 
 [upgrade]
@@ -566,20 +566,20 @@ tab=2
 position=240,80
 requires_primary=mental,2
 requires_primary=defense,1
-requires_point=true
+requires_point=false
 upgrades=118,119,120,121
 
 [upgrade]
 id=118
 requires_primary=mental,5
-requires_primary=defense,4
-requires_point=true
+requires_primary=defense,1
+requires_point=false
 
 [upgrade]
 id=119
-requires_primary=mental,8
-requires_primary=defense,7
-requires_point=true
+requires_primary=mental,5
+requires_primary=defense,1
+requires_point=false
 
 [upgrade]
 id=120
@@ -600,7 +600,7 @@ id=122
 tab=2
 position=112,144
 requires_primary=mental,2
-requires_point=true
+requires_point=false
 upgrades=123,124,125,126
 
 [upgrade]
@@ -630,7 +630,7 @@ id=127
 tab=2
 position=176,144
 requires_primary=mental,2
-requires_point=true
+requires_point=false
 upgrades=128,129,130,131
 
 [upgrade]
@@ -660,7 +660,7 @@ id=132
 tab=2
 position=240,144
 requires_primary=mental,2
-requires_point=true
+requires_point=false
 upgrades=133,134,135,136
 
 [upgrade]
@@ -690,8 +690,8 @@ id=137
 tab=2
 position=112,208
 requires_primary=mental,3
-requires_power=122
-requires_point=true
+requires_power=0
+requires_point=false
 upgrades=138,139,140,141
 
 [upgrade]
@@ -725,8 +725,8 @@ id=142
 tab=2
 position=176,208
 requires_primary=mental,3
-requires_power=127
-requires_point=true
+requires_power=0
+requires_point=false
 upgrades=143,144,145,146
 
 [upgrade]
@@ -760,8 +760,8 @@ id=147
 tab=2
 position=240,208
 requires_primary=mental,3
-requires_power=132
-requires_point=true
+requires_power=0
+requires_point=false
 upgrades=148,149,150,151
 
 [upgrade]
@@ -794,7 +794,7 @@ requires_point=true
 id=152
 tab=2
 position=48,336
-requires_point=true
+requires_point=false
 requires_level=1
 upgrades=153,154,155,156
 

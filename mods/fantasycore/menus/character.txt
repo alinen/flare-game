@@ -38,5 +38,5 @@ label_primary=offense,160,112,left,center
 primary=defense,80,128,32,16
 label_primary=defense,160,136,left,center
 
-unspent=160,396,center,top
+#unspent=160,396,center,top
 
